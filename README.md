@@ -4,7 +4,7 @@ A free, open-source, single-page portfolio template designed for developers, des
 
 **Created by [Kartik Sohal](https://github.com/Kartik-Sohal)**
 
-![Portfolio Template Preview](https://flic.kr/p/2rgVVYZ) 
+![Portfolio Template Preview](https://staging-jubilee.flickr.com/65535/54657881717_5503541d93_b.jpg) 
 <!-- SUGGESTION: Take a screenshot of your customized portfolio and upload it to a site like imgur.com, then replace the URL above to show a preview! -->
 
 ---
